@@ -1,6 +1,6 @@
-# Business Card Privacy Policy
+# Qardly Privacy Policy
 
-Public privacy policy for the Business Card iOS app.
+Public privacy policy for the Qardly (كاردلي) iOS app.
 
 - Policy page: `index.md`
 - Markdown source: `PRIVACY_POLICY.md`
