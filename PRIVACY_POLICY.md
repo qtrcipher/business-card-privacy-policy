@@ -19,7 +19,7 @@ You decide what information to add and what information to share.
 Your card information is used only on your device to:
 
 - Create and display your digital business card.
-- Generate sharing formats such as QR codes, contact cards (vCard), card images, email signatures, and NFC tags.
+- Generate sharing formats such as QR codes, contact cards (vCard), card images, and email signatures.
 - Help recipients save your contact information when you choose to share it.
 
 We do not sell your personal information. We do not contact the people you share your card with. We do not use your card information for advertising.
@@ -32,7 +32,7 @@ If you back up your device (for example with iCloud Backup or a computer backup)
 
 ## Sharing Your Card
 
-Sharing is always something you initiate. When you share your card — by QR code, contact card, image, email signature, or NFC tag — the information you put on the card goes directly to the recipient. Nothing passes through us, and we cannot see who you share with. Only include information on your card that you are comfortable making available to others.
+Sharing is always something you initiate. When you share your card — by QR code, contact card, image, or email signature — the information you put on the card goes directly to the recipient. Nothing passes through us, and we cannot see who you share with. Only include information on your card that you are comfortable making available to others.
 
 ## Contacts and Photos
 
