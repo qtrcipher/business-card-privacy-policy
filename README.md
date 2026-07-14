@@ -1,7 +1,8 @@
 # Qardly Privacy Policy
 
-Public privacy policy for the Qardly (كاردلي) iOS app.
+Public privacy policy for the Qardly (كاردلي) iOS app, in English and Arabic.
 
-- Policy page: `index.md`
-- Markdown source: `PRIVACY_POLICY.md`
+- English: https://qtrcipher.github.io/business-card-privacy-policy/
+- Arabic (العربية): https://qtrcipher.github.io/business-card-privacy-policy/ar/
+- Sources: `index.md` (EN), `ar.md` (AR)
 - Contact: `hamam@gccapps.com`

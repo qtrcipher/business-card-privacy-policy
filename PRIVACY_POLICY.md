@@ -1,6 +1,8 @@
 # Qardly Privacy Policy
 
-**Effective Date:** July 8, 2026
+[العربية](ar/)
+
+**Effective Date:** July 14, 2026
 
 This Privacy Policy applies to the **Qardly** (كاردلي) iOS app, published by GCC Apps.
 
